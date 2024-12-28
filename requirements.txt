@@ -1,0 +1,4 @@
+httpx
+loguru
+colorama
+fake-useragent
